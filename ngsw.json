@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1717320625013,
+  "index": "https://kinlok-wong.github.io/my-learning-portal/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://kinlok-wong.github.io/my-learning-portal/favicon.ico",
+        "https://kinlok-wong.github.io/my-learning-portal/index.html",
+        "https://kinlok-wong.github.io/my-learning-portal/main.465334ba7beb1391.js",
+        "https://kinlok-wong.github.io/my-learning-portal/manifest.webmanifest",
+        "https://kinlok-wong.github.io/my-learning-portal/polyfills.085ca22a39caf2cd.js",
+        "https://kinlok-wong.github.io/my-learning-portal/runtime.bb8c4e5e81cf7914.js",
+        "https://kinlok-wong.github.io/my-learning-portal/scripts.1ac6d0d02f230370.js",
+        "https://kinlok-wong.github.io/my-learning-portal/styles.62014a62820c8a35.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-144x144.png",
+        "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-192x192.png",
+        "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-48x48.png",
+        "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-512x512.png",
+        "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-72x72.png",
+        "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-96x96.png",
+        "https://kinlok-wong.github.io/my-learning-portal/assets/words.json",
+        "https://kinlok-wong.github.io/my-learning-portal/bootstrap-icons.70a9dee9e5ab72aa.woff",
+        "https://kinlok-wong.github.io/my-learning-portal/bootstrap-icons.bfa90bda92a84a6a.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-144x144.png": "ec91d5ffde59ee2948aa10094b563dcac25349f3",
+    "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-192x192.png": "2f0da15276daf28bafa895f9cb1bf459de30bad0",
+    "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-48x48.png": "2e65bee891da386c27fbb64294358d89b2e9e72b",
+    "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-512x512.png": "c33f41e402c833afe807298194ba7df2067a3ead",
+    "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-72x72.png": "f6a6abdb157bbf3136af6eba5fc2f30150d0fd6a",
+    "https://kinlok-wong.github.io/my-learning-portal/assets/icons/icon-96x96.png": "7b1eb01b94a2d813101da7ab7e3f4d1921ba8bb7",
+    "https://kinlok-wong.github.io/my-learning-portal/assets/words.json": "466ec631404d13a350075fc7db0c61dcbbc7472d",
+    "https://kinlok-wong.github.io/my-learning-portal/bootstrap-icons.70a9dee9e5ab72aa.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
+    "https://kinlok-wong.github.io/my-learning-portal/bootstrap-icons.bfa90bda92a84a6a.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
+    "https://kinlok-wong.github.io/my-learning-portal/favicon.ico": "657c50511c36cbb5e98ada824d1ed65344b945de",
+    "https://kinlok-wong.github.io/my-learning-portal/index.html": "5bab065765399269532c58e9135c5ea87afeb240",
+    "https://kinlok-wong.github.io/my-learning-portal/main.465334ba7beb1391.js": "400adf1481fcc3f48c6702a755160843dc532be0",
+    "https://kinlok-wong.github.io/my-learning-portal/manifest.webmanifest": "e74274624814f1475e965259100bc2a9a54e0bbc",
+    "https://kinlok-wong.github.io/my-learning-portal/polyfills.085ca22a39caf2cd.js": "2afeda7d25d33f560b9461aced87a947205caef9",
+    "https://kinlok-wong.github.io/my-learning-portal/runtime.bb8c4e5e81cf7914.js": "a720d3dafe2c1a8c7aad87fba05a13eeb73efaf4",
+    "https://kinlok-wong.github.io/my-learning-portal/scripts.1ac6d0d02f230370.js": "3e03c7963828ff9539f82dcd788ff3ac916212d2",
+    "https://kinlok-wong.github.io/my-learning-portal/styles.62014a62820c8a35.css": "1d971851bfcc1d0f54d7ad4fad12b25cb93e3e79"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
