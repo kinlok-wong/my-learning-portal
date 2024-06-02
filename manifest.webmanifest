@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "landscape",
   "scope": "./",
-  "start_url": "./",
+  "start_url": "https://kinlok-wong.github.io/my-learning-portal/",
   "icons": [
     {
       "src": "assets/icons/icon-48x48.png",
